@@ -16,4 +16,4 @@ Social Media Marketing
 
 Note: I realised the issue with code very quickly.
 
-The Deployed Link:
+The Deployed Link: https://antoineford.github.io/Horiseon_Land_Page_2/
